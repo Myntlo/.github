@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: https://github.com/Myntlo/.github/blob/main/SECURITY.md
+    about: Do not open an issue. Follow the security policy to report it privately.
+  - name: Customer support
+    url: https://github.com/Myntlo/.github/blob/main/SUPPORT.md
+    about: Help with your account, billing or using Myntlo.
