@@ -2,12 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-  <img src="logo-light.png" alt="Myntlo logo" width="96">
+  <img src="logo-light.png" alt="Myntlo logo" width="120">
 </picture>
 
-# Myntlo
-
-**Your meetings contradict each other. Myntlo notices.**
+### Your meetings contradict each other. Myntlo notices.
 
 [Website](https://myntlo.com) · [LinkedIn](https://www.linkedin.com/company/myntlo) · [Email](mailto:contact@myntlo.com)
 
@@ -31,8 +29,3 @@ Myntlo reads across every meeting your team has ever had, and tells you when a d
 - **Ask your meeting** - chat with the full transcript
 - **No bot on the call** - nobody wants a fourth participant named "Notetaker"
 
-## Get in touch
-
-- Visit us at [myntlo.com](https://myntlo.com)
-- Email us at [contact@myntlo.com](mailto:contact@myntlo.com)
-- Follow us on [LinkedIn](https://www.linkedin.com/company/myntlo)
